@@ -1,0 +1,166 @@
+* {
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.btn {
+    background-color: goldenrod !important;
+    border: none !important;
+}
+
+.card-text {
+    font-size: 17px;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+
+}
+
+
+.card {
+
+    border-color: #d5bdaf !important;
+    background-color: #d5bdaf !important;
+    margin-top: 20px !important;
+    margin-bottom: 35px;
+}
+
+.btn:hover {
+    background-color: black !important;
+    transform: scale(1.1);
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+
+.miTitulo {
+    margin-top: 100px;
+    text-align: center;
+}
+
+header,
+.navbar {
+    background-color: #d5bdaf !important;
+    font-size: 25px;
+}
+
+#navbarNavDropdown {
+    justify-content: flex-end;
+}
+
+#privacidad {
+    display: flex;
+    justify-content: end;
+}
+
+
+form {
+    text-align: center;
+}
+
+body {
+    background-size: cover;
+    background-color: rgb(247, 237, 237) !important;
+}
+
+.texto {
+    color: #996f56;
+    ;
+    font-size: 25px;
+}
+
+
+.iconowsp {
+    width: 100px;
+    height: 100px;
+}
+
+.caja {
+    position: fixed;
+    right: 30px;
+    bottom: 100px;
+}
+
+h1,
+h2 {
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    font-size: 200px;
+}
+
+#tituloContacto,
+#tituloNosotros {
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.tarjetas {
+    margin-top: 100px;
+}
+
+.presentacion {
+    margin: 30px;
+}
+
+p {
+    font-family: 'Cardo', serif;
+    font-size: 25px;
+
+}
+
+a {
+    font-family: 'Cinzel', serif;
+    margin-right: 40px !important;
+}
+
+.foto-perfil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+
+}
+
+.box {
+    text-align: center;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom, #ffd700, #bfa600, #a68a00, #8c6d00);
+    border-image-slice: 1;
+}
+
+
+
+.navbar-brand {
+    margin-left: 40px;
+}
+
+
+.formulario {
+    display: block;
+}
+
+
+ul {
+    background-color: #d5bdaf !important;
+}
+
+.redes {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    box-shadow: white;
+}
+
+footer {
+    background: rgb(191, 166, 0);
+    background: radial-gradient(circle, rgba(191, 166, 0, 1) 53%, rgba(121, 142, 16, 1) 89%, rgba(140, 109, 0, 1) 100%);
+    display: flex;
+    justify-content: center;
+}
